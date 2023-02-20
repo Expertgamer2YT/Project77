@@ -1,0 +1,14 @@
+var firstname ="Ranbir";
+var lastname ="Kapoor";
+var fullname= firstname.concat(lastname);
+console.log (fullname);
+var num1 = (90);
+var num2 = (7);
+var add = num1+num2;
+console.log (add);
+var sub = num1-num2;
+console.log (sub);
+var multi = num1*num2;
+console.log (multi);
+var div = num1/num2;
+console.log (div);
